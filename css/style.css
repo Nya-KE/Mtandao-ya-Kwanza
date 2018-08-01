@@ -1,0 +1,20 @@
+h1 {
+  color: maroon;
+  text-align: center;
+  font-style: oblique;
+}
+
+h4 {
+color: maroon;
+font-family: georgia;
+border-color: black;
+font-size: 30px
+}
+
+ul {
+  line-height: 30px;
+}
+
+ol {
+  line-height: 30px;
+}
